@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "946037743482",
+    "project_id": "auto-pedia-4a200",
+    "storage_bucket": "auto-pedia-4a200.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946037743482:android:30cb3a058f7502255800c3",
+        "android_client_info": {
+          "package_name": "com.example.auto_pedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946037743482-dl36sovhgnfdhe286or0tpihoeogom07.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.auto_pedia",
+            "certificate_hash": "c68b23e51f2e3c6b5b4ff1180626d8d7f0cf4448"
+          }
+        },
+        {
+          "client_id": "946037743482-j374h5ohh1mvmjqkps021qjbcslqsvkk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKSlQsqkKmEX_0BcazR_S36_EHUeRTRw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946037743482-j374h5ohh1mvmjqkps021qjbcslqsvkk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
